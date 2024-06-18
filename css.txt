@@ -1,0 +1,43 @@
+            >>>Conceitos Básicos<<<
+
+1.) Seletores: Entender diferentes tipos de seletores (elemento, classe, ID, atributo, pseudo-classes, pseudo-elementos).
+2.) Propriedades e Valores: Conhecer propriedades comuns como color, font-size, margin, padding, border, etc.
+3.) Box Model: Entender o modelo de caixa (box model), incluindo margens, bordas, preenchimento e conteúdo.
+4.) Unidades de Medida: Familiarizar-se com unidades absolutas (px) e relativas (em, rem, %, vw, vh).
+
+            >>>Layout<<<
+
+5.) Flexbox: Aprender a usar Flexbox para criar layouts flexíveis e responsivos.
+6.) Grid Layout: Entender CSS Grid para criar layouts mais complexos.
+7.) Positioning: Dominar posicionamentos static, relative, absolute, fixed e sticky.
+8.) Responsive Design: Usar media queries para adaptar o layout a diferentes tamanhos de tela.
+
+            >>>Estilização<<<
+
+9.) Typography: Trabalhar com fontes, tamanhos de fonte, espaçamento entre letras e linhas.
+10.) Backgrounds: Usar imagens de fundo, gradientes e padrões.
+11.) Transitions and Animations: Adicionar transições suaves e animações aos elementos.
+12.) Transformations: Aplicar transformações como rotação, escala e translação.
+
+            >>>Avançado<<<
+
+13.) CSS Preprocessors: Aprender a usar preprocessadores como Sass ou LESS para escrever CSS mais eficiente e organizado.
+14.) CSS Frameworks: Explorar frameworks como Bootstrap ou Tailwind CSS para acelerar o desenvolvimento.
+15.) Best Practices: Adotar boas práticas como BEM (Block Element Modifier) para escrever CSS modular e reutilizável.
+
+            >>>Ferramentas e Técnicas<<<
+
+16.) Developer Tools: Usar as ferramentas de desenvolvedor dos navegadores para inspecionar e depurar CSS.
+17.) Version Control: Aprender a usar Git para controle de versão.
+18.) Performance: Otimizar o desempenho do CSS, minimizando e organizando os arquivos CSS.
+
+            >>>Prática<<<
+
+19.) Projetos Práticos: Criar projetos práticos para aplicar o que aprendeu. Pode ser um site pessoal, uma landing page ou componentes de UI específicos.
+20.) Colaboração: Participar de projetos de código aberto ou colaborar com outros desenvolvedores para ganhar experiência.
+
+            >>>Recursos de Aprendizado<<<
+            
+21.) Documentação Oficial: Ler a documentação do MDN Web Docs para referência.
+22.) Tutoriais Online: Seguir tutoriais e cursos online em plataformas como FreeCodeCamp, Codecademy, Coursera, Udemy.
+23.) Comunidades: Participar de comunidades online como Stack Overflow, Reddit (subreddits como r/webdev), e fóruns de desenvolvedores para discutir dúvidas e obter feedback.
